@@ -5,7 +5,7 @@
 * [Ferramenta para criar fluxogramas profissionais](https://lucid.app/lucidchart/9418822c-84c4-4af9-a235-6639a5e294d6/edit?page=0_0&invitationId=inv_fa502a9f-0bc3-461d-92bb-de8ebabd6077#)
 * [Comprimir imagens para reduzir o tamanho](https://www.iloveimg.com/pt/comprimir-imagem)
 * [Fazer download de videos do youtube por URL](https://y2save.net/pt/)
-* []()
+* [Soluções para converter PDF online e diversos arquivos](https://www.hipdf.com/pt/)
 * []()
 * []()
 * []()
