@@ -12,6 +12,6 @@
 * [Pinterest - Ferramenta para encontrar referenças para dashboards](https://br.pinterest.com/)
 * [Gerador de paletas de cores](https://coolors.co/)
 * [Icones e fontes - Google Fonts](https://fonts.google.com/icons)
-* []()
+* [Editor de deshboard - Figma](https://www.figma.com/files/project/65015516/Team-project?fuid=1144774184625738251)
 * []()
 * []()
