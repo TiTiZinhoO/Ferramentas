@@ -8,7 +8,7 @@
 * [Soluções para converter PDF online e diversos arquivos](https://www.hipdf.com/pt/)
 * [Transformar PNG em Arquivo ICO](https://www.hipdf.com/pt/png-para-ico#:~:text=Como%20se%20converte%20um%20PNG%20para%20ICO.%20Clique,criado%20um%20novo%20%C3%ADcone%20da%20ICO.%20Servidores%20seguros)
 
-#Designer
+# Designer
 * [Pinterest - Ferramenta para encontrar referenças para dashboards](https://br.pinterest.com/)
 * [Gerador de paletas de cores](https://coolors.co/)
 * [Icones e fontes - Google Fonts](https://fonts.google.com/icons)
