@@ -1,6 +1,7 @@
 <h1 align="center"> Ferramentas: </h1>
 
 # Downloads
+* [Converter imagens em formato ICO](https://www.icoconverter.com/)
 * [Abaixar PDFs dos gabaritos via URL](https://pdfmyurl.com/)
 * [Comprimir imagens para reduzir o tamanho](https://www.iloveimg.com/pt/comprimir-imagem)
 * [Fazer download de videos do youtube por URL](https://myconverters.com/pt/youtube-downloader/)
