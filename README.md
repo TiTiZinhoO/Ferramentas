@@ -1,7 +1,7 @@
 <h1 align="center"> Ferramentas: </h1>
 
 # Downloads
-* [DB Browser for SQLite](https://sqlitebrowser.org/)
+* [DB Browser for SQLite - banco de dados](https://sqlitebrowser.org/)
 * [Site Kaggle para baixar datasets para analise de dados](https://www.kaggle.com/)
 * [Converter imagens em formato ICO](https://www.icoconverter.com/)
 * [Abaixar PDFs dos gabaritos via URL](https://pdfmyurl.com/)
