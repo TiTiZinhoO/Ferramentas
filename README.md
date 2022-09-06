@@ -24,5 +24,5 @@
 * []()
 * []()
 * # Desenvolvimento
-* [Encontrar nomes para variaveis](https://unbug.github.io/codelf/)
-* 
+* [Unbug - Encontrar nomes para variaveis](https://unbug.github.io/codelf/)
+* [Overapi - Coleção de cheat sheets](https://overapi.com/)
