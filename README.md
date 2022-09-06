@@ -23,3 +23,6 @@
 * [Editor de deshboard - Figma](https://www.figma.com/files/project/65015516/Team-project?fuid=1144774184625738251)
 * []()
 * []()
+* # Desenvolvimento
+* [Encontrar nomes para variaveis](https://unbug.github.io/codelf/)
+* 
