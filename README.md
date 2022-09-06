@@ -17,7 +17,8 @@
 * [Criar conteudo interativo](https://genial.ly/pt-br/)
 # Designer
 * [Pinterest - Ferramenta para encontrar referenças para dashboards](https://br.pinterest.com/)
-* [Gerador de paletas de cores](https://coolors.co/)
+* [Gerador de paletas de cores - coloors.co](https://coolors.co/)
+* [Gerador de paletas de cores - colors.muz.li](https://colors.muz.li/)
 * [Icones e fontes - Google Fonts](https://fonts.google.com/icons)
 * [Editor de deshboard - Figma](https://www.figma.com/files/project/65015516/Team-project?fuid=1144774184625738251)
 * []()
