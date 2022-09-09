@@ -1,6 +1,7 @@
 <h1 align="center"> Ferramentas: </h1>
 
 # Downloads
+* [Flatcon - baixar icones](https://www.flaticon.com/)
 * [DB Browser for SQLite - banco de dados](https://sqlitebrowser.org/)
 * [Site Kaggle para baixar datasets para analise de dados](https://www.kaggle.com/)
 * [Converter imagens em formato ICO](https://www.icoconverter.com/)
