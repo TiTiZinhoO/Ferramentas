@@ -29,4 +29,4 @@
 * [Unbug - Encontrar nomes para variaveis](https://unbug.github.io/codelf/)
 * [Overapi - Coleção de cheat sheets](https://overapi.com/)
 * # Sites informativos
-[Exercicios online](https://onlinejudge.org/)
+* [Exercicios online](https://onlinejudge.org/)
