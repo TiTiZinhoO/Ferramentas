@@ -30,3 +30,5 @@
 * [Overapi - Coleção de cheat sheets](https://overapi.com/)
 * # Sites informativos
 * [Exercicios online](https://onlinejudge.org/)
+* # Armazenamento Nuvem
+* [Armazenar imagens na nuvem(https://imgur.com/upload)
