@@ -25,8 +25,8 @@
 * [Gerador de paletas de cores - colors.muz.li](https://colors.muz.li/)
 * [Icones e fontes - Google Fonts](https://fonts.google.com/icons)
 * [Editor de deshboard - Figma](https://www.figma.com/files/project/65015516/Team-project?fuid=1144774184625738251)
-* []()
-* []()
 * # Desenvolvimento
 * [Unbug - Encontrar nomes para variaveis](https://unbug.github.io/codelf/)
 * [Overapi - Coleção de cheat sheets](https://overapi.com/)
+* # Sites informativos
+[Exercicios online](https://onlinejudge.org/)
