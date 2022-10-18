@@ -31,4 +31,4 @@
 * # Sites informativos
 * [Exercicios online](https://onlinejudge.org/)
 * # Armazenamento Nuvem
-* [Armazenar imagens na nuvem(https://imgur.com/upload)
+* [Armazenar imagens na nuvem](https://imgur.com/upload)
