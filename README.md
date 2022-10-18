@@ -20,7 +20,7 @@
 * [Ferramenta para criar fluxogramas profissionais](https://lucid.app/lucidchart/9418822c-84c4-4af9-a235-6639a5e294d6/edit?page=0_0&invitationId=inv_fa502a9f-0bc3-461d-92bb-de8ebabd6077#)
 * [Criar conteudo interativo](https://genial.ly/pt-br/)
 # Designer
-*[Òtimo site para remover fundos de imagens e editar fotos](https://app.photoroom.com/create)
+* [Òtimo site para remover fundos de imagens e editar fotos](https://app.photoroom.com/create)
 * [Pinterest - Ferramenta para encontrar referenças para dashboards](https://br.pinterest.com/)
 * [Gerador de paletas de cores - coloors.co](https://coolors.co/)
 * [Gerador de paletas de cores - colors.muz.li](https://colors.muz.li/)
