@@ -27,6 +27,7 @@
 * [Icones e fontes - Google Fonts](https://fonts.google.com/icons)
 * [Editor de deshboard - Figma](https://www.figma.com/files/project/65015516/Team-project?fuid=1144774184625738251)
 * # Desenvolvimento
+* [Site para resolver problemas e excercicios de todas as linguagens de programação.](https://www.beecrowd.com.br/judge/en/categories)
 * [Unbug - Encontrar nomes para variaveis](https://unbug.github.io/codelf/)
 * [Overapi - Coleção de cheat sheets](https://overapi.com/)
 * # Sites informativos
