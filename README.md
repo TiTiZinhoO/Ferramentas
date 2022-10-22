@@ -10,6 +10,7 @@
 * [Fazer download de videos do youtube por URL](https://myconverters.com/pt/youtube-downloader/)
 * [Soluções para converter PDF online e diversos arquivos](https://www.hipdf.com/pt/)
 * [Transformar PNG em Arquivo ICO](https://www.hipdf.com/pt/png-para-ico#:~:text=Como%20se%20converte%20um%20PNG%20para%20ICO.%20Clique,criado%20um%20novo%20%C3%ADcone%20da%20ICO.%20Servidores%20seguros)
+
 # Criação
 * [Site para baixar sons e efeitos do mario](https://themushroomkingdom.net/)
 * [Site para baixar musicas de fundo](https://freemusicarchive.org/home)
@@ -19,6 +20,7 @@
 * [Software de criação de mapa mentais](https://www.mindmeister.com/pt/mm/signup/basic?return_to=https%3A%2F%2Fwww.mindmeister.com%2Fpt%2Fmaps%2Fdashboard)
 * [Ferramenta para criar fluxogramas profissionais](https://lucid.app/lucidchart/9418822c-84c4-4af9-a235-6639a5e294d6/edit?page=0_0&invitationId=inv_fa502a9f-0bc3-461d-92bb-de8ebabd6077#)
 * [Criar conteudo interativo](https://genial.ly/pt-br/)
+
 # Designer
 * [Òtimo site para remover fundos de imagens e editar fotos](https://app.photoroom.com/create)
 * [Pinterest - Ferramenta para encontrar referenças para dashboards](https://br.pinterest.com/)
@@ -26,11 +28,13 @@
 * [Gerador de paletas de cores - colors.muz.li](https://colors.muz.li/)
 * [Icones e fontes - Google Fonts](https://fonts.google.com/icons)
 * [Editor de deshboard - Figma](https://www.figma.com/files/project/65015516/Team-project?fuid=1144774184625738251)
+
 * # Desenvolvimento
-* [Site para resolver problemas e excercicios de todas as linguagens de programação.](https://www.beecrowd.com.br/judge/en/categories)
 * [Unbug - Encontrar nomes para variaveis](https://unbug.github.io/codelf/)
 * [Overapi - Coleção de cheat sheets](https://overapi.com/)
+
 * # Sites informativos
-* [Exercicios online](https://onlinejudge.org/)
+* [Site para resolver problemas e excercicios de todas as linguagens de programação.](https://www.beecrowd.com.br/judge/en/categories)
+
 * # Armazenamento Nuvem
 * [Armazenar imagens na nuvem](https://imgur.com/upload)
