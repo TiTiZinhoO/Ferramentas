@@ -1,6 +1,7 @@
 <h1 align="center"> Ferramentas: </h1>
 
 # Downloads
+* [Pacote Office 2013-2021 - download completo com crack](https://filecr.com/windows/office-c2r-install?id=95640350022)
 * [Ferramenta para baixar Windowls e criar pendriver botavel](https://www.microsoft.com/pt-br/software-download/windows10ISO)
 * [Flatcon - baixar icones](https://www.flaticon.com/)
 * [DB Browser for SQLite - banco de dados](https://sqlitebrowser.org/)
