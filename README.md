@@ -1,6 +1,7 @@
 <h1 align="center"> Ferramentas: </h1>
 
 # Downloads
+* [Ferramenta para baixar Windowls e criar pendriver botavel](https://www.microsoft.com/pt-br/software-download/windows10ISO)
 * [Flatcon - baixar icones](https://www.flaticon.com/)
 * [DB Browser for SQLite - banco de dados](https://sqlitebrowser.org/)
 * [Site Kaggle para baixar datasets para analise de dados](https://www.kaggle.com/)
