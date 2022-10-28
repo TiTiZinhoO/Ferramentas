@@ -47,3 +47,6 @@
 * [Ferramenta CASE gratuita que gera scripts para o SGBD MySQL](https://www.mysql.com/products/workbench/)
 * [Ferramenta CASE para criar diagramas UML.](https://astah.net/downloads/)
 * [Padlet criação de murais](https://padlet.com/tiagomoreirapimentel72/2n17ytyw6j5oouj)
+
+# Java Developer
+* [Java JDK LTS](https://www.azul.com/downloads/?package=jdk)
