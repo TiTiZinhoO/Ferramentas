@@ -14,6 +14,7 @@
 * [Transformar PNG em Arquivo ICO](https://www.hipdf.com/pt/png-para-ico#:~:text=Como%20se%20converte%20um%20PNG%20para%20ICO.%20Clique,criado%20um%20novo%20%C3%ADcone%20da%20ICO.%20Servidores%20seguros)
 
 # Criação
+* [Encurtar links](https://www.encurtador.dev/)
 * [Site para baixar sons e efeitos do mario](https://themushroomkingdom.net/)
 * [Site para baixar musicas de fundo](https://freemusicarchive.org/home)
 * [BR Modelo web - criar fluxogramas profissionais](https://app.brmodeloweb.com/)
