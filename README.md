@@ -46,6 +46,7 @@
 # Faculdade ADS
 * [Analizar arquivo de trabalhos da faculdade e indentificar plagios](https://app.copyleaks.com/dashboard/v1)
 * [Fluxogramas BPMN](https://bpmn.io/)
+* [Fluxogramas BPMN Bizagi](https://www.bizagi.com/en/platform/studio)
 * [DRAW.IO criador de diagramas](https://app.diagrams.net/#G1pO0k3Ecwywhv3F6QH1KNtjd-nOgL49ZE)
 * [Ferramenta CASE gratuita que gera scripts para o SGBD MySQL](https://www.mysql.com/products/workbench/)
 * [Ferramenta CASE para criar diagramas UML.](https://astah.net/downloads/)
