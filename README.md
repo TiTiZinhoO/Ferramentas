@@ -15,6 +15,7 @@
 
 # Criação
 * [Encurtar links](https://www.encurtador.dev/)
+* [Copiar e baixar emojis](https://getemoji.com/)
 * [Site para baixar sons e efeitos do mario](https://themushroomkingdom.net/)
 * [Site para baixar musicas de fundo](https://freemusicarchive.org/home)
 * [BR Modelo web - criar fluxogramas profissionais](https://app.brmodeloweb.com/)
