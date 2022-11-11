@@ -55,3 +55,8 @@
 
 # Java Developer
 * [Java JDK LTS](https://www.azul.com/downloads/?package=jdk)
+
+# HTML & CSS
+* [HTML color](https://htmlcolors.com/)
+* [Google Fonts](https://fonts.google.com/)
+
