@@ -53,9 +53,17 @@
 * [Ferramenta CASE para criar diagramas UML.](https://astah.net/downloads/)
 * [Padlet criação de murais](https://padlet.com/tiagomoreirapimentel72/2n17ytyw6j5oouj)
 
-# Java Developer
-* [Java JDK LTS](https://www.azul.com/downloads/?package=jdk)
-* [Como instalar o JDK](https://www.youtube.com/watch?v=QekeJBShCy4&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=1)
+## Java Developer
+   # Semana Spring React
+   * [Java JDK LTS](https://www.azul.com/downloads/?package=jdk)
+   * [Como instalar o JDK](https://www.youtube.com/watch?v=QekeJBShCy4&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=1)
+   * [Como instalar o STS](https://www.youtube.com/watch?v=vjsEyNRa0Zw&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=2)
+   * [Como instalar o Postman para testar API rest](https://www.youtube.com/watch?v=CWKLVapcnCU&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=3)
+   * [Instalar o Prostgresql e PGadmin no windows](https://www.youtube.com/watch?v=IvPvnw5wXSM&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=4)
+   * [Instalar Heroku CLI no Windows](https://www.youtube.com/watch?v=70LUh5KNaEk&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=6)
+   * [Instalar NPM no Windows](https://www.youtube.com/watch?v=42QuY7rfLTU&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=6)
+   * [Instalar VS Code no Windows](https://www.youtube.com/watch?v=ZIoHacwWjLI&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=7)
+   * [Instalar o Git no Windows](https://www.youtube.com/watch?v=YVPRhRyFrZY&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=8)
 
 # HTML & CSS
 * [HTML color](https://htmlcolors.com/)
