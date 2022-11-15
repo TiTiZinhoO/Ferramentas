@@ -62,9 +62,9 @@
    * [Instalar o Prostgresql e PGadmin no windows](https://www.youtube.com/watch?v=IvPvnw5wXSM&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=4)
    * [Instalar Heroku CLI no Windows](https://www.youtube.com/watch?v=70LUh5KNaEk&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=6)
    * [Instalar NPM no Windows](https://www.youtube.com/watch?v=42QuY7rfLTU&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=6)
-   * [Instalar VS Code no Windows](https://www.youtube.com/watch?v=ZIoHacwWjLI&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=7)
    * [Instalar o Git no Windows](https://www.youtube.com/watch?v=YVPRhRyFrZY&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=8)
    * [criar um projeto generico STS spring](https://start.spring.io/)
+   * [Instalar VS Code no Windows](https://www.youtube.com/watch?v=ZIoHacwWjLI&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=7)
 
 # HTML & CSS
 * [HTML color](https://htmlcolors.com/)
