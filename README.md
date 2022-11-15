@@ -64,6 +64,7 @@
    * [Instalar NPM no Windows](https://www.youtube.com/watch?v=42QuY7rfLTU&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=6)
    * [Instalar VS Code no Windows](https://www.youtube.com/watch?v=ZIoHacwWjLI&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=7)
    * [Instalar o Git no Windows](https://www.youtube.com/watch?v=YVPRhRyFrZY&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=8)
+   * [criar um projeto generico STS spring](https://start.spring.io/)
 
 # HTML & CSS
 * [HTML color](https://htmlcolors.com/)
