@@ -55,6 +55,7 @@
 
 # Java Developer
 * [Java JDK LTS](https://www.azul.com/downloads/?package=jdk)
+* [Como instalar o JDK](https://www.youtube.com/watch?v=QekeJBShCy4&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=1)
 
 # HTML & CSS
 * [HTML color](https://htmlcolors.com/)
