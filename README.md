@@ -65,10 +65,10 @@
    * [Instalar o Git no Windows](https://www.youtube.com/watch?v=YVPRhRyFrZY&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=8)
    * [criar um projeto generico STS spring](https://start.spring.io/)
    * [Instalar VS Code no Windows](https://www.youtube.com/watch?v=ZIoHacwWjLI&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=7)
-   * Extensões importantes para VScode:
-      1° IntelliCode
-      2° ESLint
-      3° JSX HTML <tags/>
+   ## Extensões importantes para VScode:
+   - 1° IntelliCode
+   - 2° ESLint
+   - 3° JSX HTML <tags/>
 
 # HTML & CSS
 * [HTML color](https://htmlcolors.com/)
