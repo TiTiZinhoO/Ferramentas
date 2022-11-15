@@ -53,8 +53,8 @@
 * [Ferramenta CASE para criar diagramas UML.](https://astah.net/downloads/)
 * [Padlet criação de murais](https://padlet.com/tiagomoreirapimentel72/2n17ytyw6j5oouj)
 
-## Java Developer
-   # Semana Spring React
+# Java Developer
+   ## Semana Spring React
    * [Java JDK LTS](https://www.azul.com/downloads/?package=jdk)
    * [Como instalar o JDK](https://www.youtube.com/watch?v=QekeJBShCy4&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=1)
    * [Como instalar o STS](https://www.youtube.com/watch?v=vjsEyNRa0Zw&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=2)
