@@ -45,6 +45,7 @@
 * [Armazenar imagens na nuvem](https://imgur.com/upload)
 
 # Faculdade ADS
+* [Visual Paradigm Download](https://www.visual-paradigm.com/download/community.jsp?platform=windows&arch=64bit)
 * [Analizar arquivo de trabalhos da faculdade e indentificar plagios](https://app.copyleaks.com/dashboard/v1)
 * [Fluxogramas BPMN](https://bpmn.io/)
 * [Fluxogramas BPMN Bizagi](https://www.bizagi.com/en/platform/studio)
