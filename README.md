@@ -1,6 +1,3 @@
-<h1 align="center"> Ferramentas: </h1>
-
-# <p style='color:red'>This is some red text.</p>
 # Downloads
    ### Criação e Edição:
 * [Photoshop 2022 + crack](https://drive.google.com/file/d/1PDKVtTBZtbERtgxlBYqLLr34B2jk808U/view?fbclid=IwAR3DA-6RMC0KCJjOsurG5iz6qe5HBRIte34UXN5eTCHUmKDbx4G8V7GoigU)
