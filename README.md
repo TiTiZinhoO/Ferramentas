@@ -1,19 +1,22 @@
 <h1 align="center"> Ferramentas: </h1>
 
 # Downloads
+  ### Criação e Edição:
 * [Photoshop 2022 + crack](https://drive.google.com/file/d/1PDKVtTBZtbERtgxlBYqLLr34B2jk808U/view?fbclid=IwAR3DA-6RMC0KCJjOsurG5iz6qe5HBRIte34UXN5eTCHUmKDbx4G8V7GoigU)
 * [Pacote Office 2013-2021 - download completo com crack](https://filecr.com/windows/office-c2r-install?id=95640350022)
-* [Ferramenta para baixar Windowls e criar pendriver botavel](https://www.microsoft.com/pt-br/software-download/windows10ISO)
 * [Flatcon - baixar icones](https://www.flaticon.com/)
+  ### Ferramentas do sistema:
+* [Ferramenta para baixar Windowls e criar pendriver botavel](https://www.microsoft.com/pt-br/software-download/windows10ISO)
+  ### Diversos:
+* [Fazer download de videos do youtube por URL](https://myconverters.com/pt/youtube-downloader/)  
+* [Abaixar PDFs dos gabaritos via URL](https://pdfmyurl.com/)  
 * [DB Browser for SQLite - banco de dados](https://sqlitebrowser.org/)
 * [Site Kaggle para baixar datasets para analise de dados](https://www.kaggle.com/)
+  ### Converter e comprimir:
 * [Converter imagens em formato ICO](https://www.icoconverter.com/)
-* [Abaixar PDFs dos gabaritos via URL](https://pdfmyurl.com/)
 * [Comprimir imagens para reduzir o tamanho](https://www.iloveimg.com/pt/comprimir-imagem)
-* [Fazer download de videos do youtube por URL](https://myconverters.com/pt/youtube-downloader/)
 * [Soluções para converter PDF online e diversos arquivos](https://www.hipdf.com/pt/)
 * [Transformar PNG em Arquivo ICO](https://www.hipdf.com/pt/png-para-ico#:~:text=Como%20se%20converte%20um%20PNG%20para%20ICO.%20Clique,criado%20um%20novo%20%C3%ADcone%20da%20ICO.%20Servidores%20seguros)
-
 # Criação
 * [Encurtar links](https://www.encurtador.dev/)
 * [Copiar e baixar emojis](https://getemoji.com/)
