@@ -60,6 +60,8 @@
 * [Padlet criação de murais](https://padlet.com/tiagomoreirapimentel72/2n17ytyw6j5oouj)
 
 # Java Developer
+   ## JAVA
+   * [Documentação das API's em JAVA](https://docs.oracle.com/javase/7/docs/api/)
    ## Semana Spring React
    * [Java JDK LTS](https://www.azul.com/downloads/?package=jdk)
    * [Como instalar o JDK](https://www.youtube.com/watch?v=QekeJBShCy4&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=1)
