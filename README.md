@@ -61,6 +61,8 @@
 
 # Java Developer
    ## JAVA
+   * [JDK](https://www.oracle.com/java/technologies/downloads/#jdk19-windows)
+   * [Netbeans](https://netbeans.apache.org/download/index.html)
    * [Documentação das API's em JAVA](https://docs.oracle.com/javase/7/docs/api/)
    * [Compilador JAVA online](https://www.online-java.com/online_java_compiler)
    ## Semana Spring React
