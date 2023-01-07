@@ -61,6 +61,7 @@
 
 # Java Developer
    ## JAVA
+   * [Mysql connector java no Maven](https://mvnrepository.com/artifact/mysql/mysql-connector-java)
    * [JDK](https://www.oracle.com/java/technologies/downloads/#jdk19-windows)
    * [Netbeans](https://netbeans.apache.org/download/index.html)
    * [Documentação das API's em JAVA](https://docs.oracle.com/javase/7/docs/api/)
