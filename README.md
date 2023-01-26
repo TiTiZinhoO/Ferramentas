@@ -4,6 +4,7 @@
 * [Pacote Office 2013-2021 - download completo com crack](https://filecr.com/windows/office-c2r-install?id=95640350022)
 * [Flatcon - baixar icones](https://www.flaticon.com/)
 * [Icones de varias resoluções](https://icon-icons.com/pt/)
+* [Icones em formato icon - VBA](https://icon-icons.com/pt/)
   ### Ferramentas do sistema:
 * [Ferramenta para baixar Windowls e criar pendriver botavel](https://www.microsoft.com/pt-br/software-download/windows10ISO)
   ### Diversos:
