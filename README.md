@@ -8,6 +8,7 @@
   ### Ferramentas do sistema:
 * [Ferramenta para baixar Windowls e criar pendriver botavel](https://www.microsoft.com/pt-br/software-download/windows10ISO)
   ### Diversos:
+* [Site para cancelar inscrições do outlook](https://unroll.me/)  
 * [Fazer download de videos do youtube por URL](https://myconverters.com/pt/youtube-downloader/)  
 * [Abaixar PDFs dos gabaritos via URL](https://pdfmyurl.com/)  
 * [DB Browser for SQLite - banco de dados](https://sqlitebrowser.org/)
