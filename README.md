@@ -8,6 +8,7 @@
   ### Ferramentas do sistema:
 * [Ferramenta para baixar Windowls e criar pendriver botavel](https://www.microsoft.com/pt-br/software-download/windows10ISO)
   ### Diversos:
+* [Coletar cor rgb do navegador extenção](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp/related)  
 * [Encurtador de links personalizados](https://www.encurtador.dev/)  
 * [Site para cancelar inscrições do outlook](https://unroll.me/)  
 * [Fazer download de videos do youtube por URL](https://myconverters.com/pt/youtube-downloader/)  
