@@ -55,6 +55,8 @@
 * [Armazenar imagens na nuvem](https://imgur.com/upload)
 
 # Faculdade ADS
+* [Sketch - software para desenvolver projetos de design](https://www.sketch.com/design/)
+* [Kodular - site para criar apps facilmente](https://www.kodular.io/)
 * [Visual Paradigm Download](https://www.visual-paradigm.com/download/community.jsp?platform=windows&arch=64bit)
 * [Analizar arquivo de trabalhos da faculdade e indentificar plagios](https://app.copyleaks.com/dashboard/v1)
 * [Fluxogramas BPMN](https://bpmn.io/)
