@@ -59,7 +59,7 @@
 * [Sketch - software para desenvolver projetos de design](https://www.sketch.com/design/)
 * [Kodular - site para criar apps facilmente](https://www.kodular.io/)
 * [Visual Paradigm Download](https://www.visual-paradigm.com/download/community.jsp?platform=windows&arch=64bit)
-* [Analizar arquivo de trabalhos da faculdade e indentificar plagios](https://app.copyleaks.com/dashboard/v1)
+* [Analizar arquivo de trabalhos da faculdade e indentificar plagios](https://www.gov.br/cnen/pt-br/j-outros/j-dicasacademicas/verificadores-de-plagio-online-gratuitos)
 * [Fluxogramas BPMN](https://bpmn.io/)
 * [Fluxogramas BPMN Bizagi](https://www.bizagi.com/en/platform/studio)
 * [DRAW.IO criador de diagramas](https://app.diagrams.net/#G1pO0k3Ecwywhv3F6QH1KNtjd-nOgL49ZE)
